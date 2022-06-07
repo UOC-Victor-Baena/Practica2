@@ -1,0 +1,308 @@
+﻿,id,construidos_m,utiles_m,habitaciones,baños,terraza,balcon,estado,orientacion,garaje,año_construido,calefaccion,planta,ascensor,aire_acondicionado,zonas_verdes_o_jardin,ciudad,zona,etiqueta_energetica,precio,precio_anterior,titulo_anuncio
+0,0,95.0,82.0,3.0,1.0,SI,NO,Buen estado,este,NO,1975.0,NO,4,NO,NO,NO,Igualada,Centre,e,65000,65000,Piso en venta en calle de Santa Anna s/n
+1,1,87.0,87.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1960.0,NO,4,SI,NO,NO,Igualada,Centre,c,118500,118500,"Piso en venta en rambla Sant Isidre, 21"
+2,2,110.0,110.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2007.0,SI,1,SI,NO,NO,Igualada,Centre,e,144000,144000,DÃºplex en venta en Sant Bartomeu
+3,3,78.0,78.0,2.0,2.0,SI,NO,Buen estado,no_definido,NO,2007.0,SI,1,SI,NO,NO,Igualada,Centre,e,139000,139000,DÃºplex en venta en Sant Bartomeu
+4,4,186.0,154.0,3.0,3.0,SI,NO,Buen estado,este,SI,2006.0,SI,2,NO,NO,NO,Igualada,Igualada,e,199000,210000,Casa o chalet independiente en venta en Ponent
+5,5,114.0,80.0,4.0,2.0,NO,SI,Buen estado,norte,NO,1970.0,SI,1,SI,NO,NO,Igualada,Igualada,NO,79500,79500,Piso en venta en Centre
+6,6,80.0,75.0,4.0,1.0,NO,NO,Buen estado,sur,SI,1974.0,NO,1,NO,NO,NO,Igualada,Ponent,e,99000,99000,Piso en venta en calle del Pare Salvador Font s/n
+7,7,794.0,420.0,10.0,6.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,SI,2,NO,NO,JardÃ­n,Igualada,Igualada,g,795000,795000,MasÃ­a en venta en Pla de Sant Magi
+8,8,78.0,68.0,2.0,2.0,SI,SI,Buen estado,no_definido,NO,2007.0,NO,2,SI,NO,NO,Igualada,Centre,e,139000,139000,DÃºplex en venta en calle de Sant Bartomeu
+9,9,91.0,68.0,3.0,2.0,SI,SI,Buen estado,norte,SI,2015.0,SI,3,SI,NO,NO,Igualada,Igualada,e,197000,200000,DÃºplex en venta en Llevant
+10,10,95.0,75.0,3.0,1.0,NO,SI,Buen estado,sur,SI,1975.0,SI,3,SI,SI,NO,Igualada,Igualada,e,136000,142500,Piso en venta en Llevant
+11,11,264.0,194.0,4.0,4.0,SI,NO,Buen estado,norte,SI,1963.0,SI,2,NO,NO,NO,Igualada,Ponent,NO,250000,250000,Chalet pareado en venta en calle de Nostra Senyora d'Ãfrica
+12,12,74.0,58.0,3.0,1.0,NO,NO,Buen estado,sur,NO,1975.0,SI,2,NO,NO,NO,Igualada,Igualada,e,120000,120000,Piso en venta en Llevant
+13,13,95.0,90.0,4.0,1.0,NO,NO,Buen estado,norte,NO,1974.0,NO,1,SI,NO,NO,Igualada,Igualada,d,125000,125000,Piso en venta en Llevant
+14,14,271.0,231.0,8.0,3.0,SI,SI,Buen estado,sur,SI,1950.0,SI,2,NO,NO,JardÃ­n,Igualada,Igualada,NO,330000,330000,Casa o chalet independiente en venta en Pla de Sant Magi
+15,15,200.0,136.0,4.0,2.0,SI,SI,Buen estado,no_definido,SI,2006.0,SI,1,SI,SI,NO,Igualada,Igualada,f,365000,365000,Piso en venta en Pla de Sant Magi
+16,16,317.0,278.0,8.0,3.0,SI,SI,Por reformar,sur,SI,1939.0,NO,2,NO,NO,JardÃ­n,Igualada,Igualada,NO,166000,166000,Casa o chalet independiente en venta en Les Comes
+17,17,96.0,83.0,3.0,1.0,NO,NO,Buen estado,sur,NO,1900.0,SI,2,NO,NO,NO,Igualada,Igualada,e,109000,109000,Piso en venta en Centre
+18,18,85.0,80.0,4.0,1.0,NO,SI,Buen estado,no_definido,NO,1967.0,SI,1,NO,NO,NO,Igualada,Ponent,e,119000,119000,Piso en venta en Av. pietat
+19,19,90.0,86.0,3.0,2.0,SI,NO,Buen estado,sur,SI,2003.0,SI,2,SI,NO,NO,Igualada,Igualada,d,186495,192500,Piso en venta en Les Comes
+20,20,335.0,300.0,3.0,2.0,SI,NO,Buen estado,oeste,SI,1998.0,SI,2,NO,SI,JardÃ­n,Igualada,Sesoliveres la Massa,NO,475000,475000,Chalet adosado en venta en calle la Segarra
+21,21,141.0,121.0,3.0,2.0,SI,NO,Buen estado,sur,SI,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,250000,250000,Piso en venta en Pla de Sant Magi
+22,22,128.0,124.0,3.0,4.0,SI,NO,Buen estado,norte,NO,1952.0,SI,1,NO,SI,NO,Igualada,Igualada,f,280000,280000,Piso en venta en Llevant
+23,23,90.0,77.0,3.0,1.0,NO,NO,Buen estado,norte,SI,1995.0,SI,3,SI,NO,NO,Igualada,Igualada,e,145000,145000,Piso en venta en Les Comes
+24,24,110.0,107.0,4.0,2.0,SI,SI,Buen estado,este,NO,1976.0,SI,4,SI,SI,NO,Igualada,Igualada,e,160000,160000,Piso en venta en Pla de Sant Magi
+25,25,100.0,81.0,4.0,1.0,SI,SI,Buen estado,sur,NO,1975.0,SI,2,SI,NO,NO,Igualada,Igualada,e,140000,140000,Piso en venta en Llevant
+26,26,90.0,80.0,3.0,1.0,NO,SI,Buen estado,norte,SI,2001.0,SI,1,SI,SI,NO,Igualada,Igualada,e,138000,138000,Piso en venta en Ponent
+27,27,200.0,173.0,4.0,3.0,SI,NO,Buen estado,norte,SI,2000.0,SI,2,NO,NO,NO,Igualada,Igualada,e,279000,279000,Casa o chalet independiente en venta en Centre
+28,28,286.0,211.0,3.0,3.0,SI,SI,Buen estado,no_definido,SI,1995.0,NO,2,NO,NO,JardÃ­n,Igualada,Igualada,e,330000,340000,Chalet adosado en venta en Les Comes
+29,29,110.0,95.0,2.0,1.0,SI,SI,Buen estado,sur,NO,1970.0,SI,2,NO,SI,NO,Igualada,Centre,NO,135000,135000,Piso en venta en SOLEDAD s/n
+30,30,68.0,62.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,2000.0,SI,1,SI,NO,NO,Igualada,Centre,NO,165000,165000,Piso en venta en rambla General Vives
+31,31,303.0,263.0,3.0,4.0,SI,NO,Buen estado,norte,NO,1900.0,SI,2,NO,SI,NO,Igualada,Igualada,d,249000,249000,Casa o chalet independiente en venta en Centre
+32,32,54.0,42.0,2.0,1.0,NO,NO,Buen estado,este,NO,1956.0,SI,1,NO,NO,NO,Igualada,Igualada,f,62000,65000,Piso en venta en Llevant
+33,33,428.0,400.0,4.0,1.0,NO,SI,Buen estado,sur,SI,1968.0,SI,2,NO,NO,NO,Igualada,Centre,NO,385000,385000,Chalet adosado en venta en balmes
+34,34,155.0,117.0,3.0,2.0,SI,SI,Buen estado,no_definido,NO,2012.0,NO,3,SI,NO,NO,Igualada,Igualada,e,190000,190000,DÃºplex en venta en Llevant
+35,35,108.0,107.0,3.0,3.0,NO,SI,Buen estado,norte,NO,2008.0,SI,2,SI,NO,Zonas verdes,Igualada,Ponent,e,149000,149000,DÃºplex en venta en avenida del Mestre Montaner
+36,36,227.0,119.0,5.0,2.0,NO,SI,Buen estado,este,SI,1995.0,SI,2,NO,SI,JardÃ­n,Igualada,Igualada,e,298999,298999,Chalet adosado en venta en Les Comes
+37,37,109.0,86.0,3.0,2.0,NO,SI,Buen estado,sur,SI,1992.0,SI,4,SI,SI,NO,Igualada,Igualada,e,220000,220000,Piso en venta en Ponent
+38,38,89.0,89.0,4.0,2.0,NO,SI,Buen estado,oeste,NO,1984.2057416267942,SI,3,SI,SI,NO,Igualada,Centre,e,165000,165000,"Piso en venta en calle de les DelÃ­cies, 6"
+39,39,115.0,105.0,4.0,1.0,NO,NO,Buen estado,sur,NO,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Igualada,NO,165000,165000,Piso en venta en Llevant
+40,40,91.0,90.0,4.0,1.0,NO,NO,Buen estado,no_definido,SI,1984.2057416267942,NO,1,SI,NO,NO,Igualada,Pla de Sant Magi,b,125000,125000,"Piso en venta en SANTA TERESA, 6"
+41,41,85.0,112.65346534653466,2.0,2.0,SI,NO,Buen estado,norte,SI,2006.0,SI,3,SI,SI,NO,Igualada,Llevant,e,155000,155000,DÃºplex en venta en calle de Salvador Murt
+42,42,168.0,110.0,4.0,2.0,SI,NO,Buen estado,no_definido,NO,1980.0,SI,5_o_superior,SI,SI,NO,Igualada,Pla de Sant Magi,c,280000,280000,Piso en venta en calle de Capellades
+43,43,200.0,160.0,4.0,3.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,NO,199000,199000,Casa o chalet independiente en venta en Ponent
+44,44,154.0,154.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2003.0,SI,2,SI,SI,NO,Igualada,Centre,e,185000,195000,DÃºplex en venta en calle Santa Maria
+45,45,119.0,109.0,4.0,2.0,NO,NO,Buen estado,no_definido,SI,2006.0,NO,3,SI,NO,NO,Igualada,Llevant,e,162000,162000,DÃºplex en venta en calle de Salvador Murt
+46,46,108.0,87.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1970.0,NO,4,SI,NO,NO,Igualada,Centre,d,118500,118500,Piso en venta en rambla de Sant Isidre
+47,47,120.0,113.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,2005.0,NO,2,SI,NO,NO,Igualada,Pla de Sant Magi,d,181000,181000,"Piso en venta en calle de Trobadiners, 2"
+48,48,297.0,297.0,3.0,3.0,SI,NO,Buen estado,no_definido,SI,2001.0,SI,2,NO,SI,NO,Igualada,Igualada,NO,525000,525000,Casa o chalet independiente en venta en Sesoliveres la Massa
+49,49,91.0,73.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,1960.0,NO,4,NO,NO,NO,Igualada,Pla de Sant Magi,g,101500,106000,Piso en venta en Sant Josep
+50,50,85.0,72.0,3.0,2.0,NO,NO,Buen estado,sur,NO,1976.0,SI,2,SI,NO,NO,Igualada,Llevant,e,135000,135000,Piso en venta en calle de Sant Carles
+51,51,75.0,71.0,3.0,1.0,NO,SI,Por reformar,no_definido,NO,1975.0,SI,5_o_superior,SI,NO,NO,Igualada,Centre,g,132500,132500,Piso en venta en calle de Sant Antoni de Baix
+52,52,116.0,98.0,3.0,2.0,SI,SI,Buen estado,no_definido,NO,2007.0,NO,3,SI,SI,NO,Igualada,Llevant,d,190000,190000,"DÃºplex en venta en Bisbe Robuster Barcelona, 3"
+53,53,272.0,272.0,4.0,2.0,SI,NO,Buen estado,no_definido,SI,1965.0,SI,2,NO,SI,NO,Igualada,Igualada,NO,352000,352000,Chalet adosado en venta en Pla de Sant Magi
+54,54,127.0,68.0,3.0,1.0,SI,NO,Buen estado,sur,NO,1974.0,SI,4,NO,NO,NO,Igualada,Ponent,e,99000,114000,Ãtico en venta en PARE SALVADOR FONT
+55,55,117.0,101.0,5.0,2.0,SI,NO,Buen estado,sur,NO,1975.0,SI,4,NO,NO,NO,Igualada,Llevant,f,140000,140000,Piso en venta en calle de Pau Muntadas
+56,56,119.0,109.0,4.0,2.0,NO,SI,Buen estado,no_definido,NO,2006.0,SI,3,SI,SI,NO,Igualada,Igualada,e,150000,150000,Piso en venta en Llevant
+57,57,74.0,70.0,3.0,1.0,NO,SI,Buen estado,no_definido,NO,1982.0,SI,3,NO,NO,NO,Igualada,Pla de Sant Magi,e,135500,141500,Piso en venta en Odena
+58,58,450.0,450.0,5.0,3.0,SI,NO,Buen estado,no_definido,SI,2007.0,SI,2,NO,NO,JardÃ­n,Igualada,Sesoliveres la Massa,c,599000,599000,Casa o chalet independiente en venta en alt camp
+59,59,83.0,60.0,2.0,2.0,NO,NO,Buen estado,no_definido,SI,2007.0,SI,1,SI,NO,NO,Igualada,Llevant,e,115100,115100,Piso en venta en calle de Gaspar Camps
+60,60,86.0,75.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,g,101500,106000,Piso en venta en Pla de Sant Magi
+61,61,87.0,87.0,4.0,1.0,NO,NO,Buen estado,no_definido,SI,1979.0,NO,2,SI,NO,NO,Igualada,Centre,NO,149000,149000,"Piso en venta en calle de les DelÃ­cies, 25"
+62,62,115.0,95.0,3.0,2.0,NO,SI,Buen estado,sur,SI,1984.2057416267942,SI,3,SI,SI,NO,Igualada,Centre,NO,226000,226000,"Piso en venta en calle de la Torre, 2"
+63,63,74.0,74.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,NO,135500,141500,Piso en venta en Pla de Sant Magi
+64,64,127.0,122.0,4.0,1.0,NO,SI,Buen estado,no_definido,NO,1984.2057416267942,SI,2,NO,SI,NO,Igualada,Pla de Sant Magi,NO,155000,165000,Piso en venta en calle del Rei Ferran d'Antequera
+65,65,111.0,89.0,4.0,2.0,SI,SI,Buen estado,norte,NO,1977.0,SI,2,SI,NO,NO,Igualada,Igualada,d,149000,149000,Piso en venta en Pla de Sant Magi
+66,66,170.0,149.0,3.0,2.0,SI,NO,Buen estado,este,SI,2004.0,NO,4,SI,SI,NO,Igualada,Igualada,e,395000,395000,Piso en venta en Pla de Sant Magi
+67,67,297.0,73.0,2.0,3.0,NO,NO,Buen estado,sur,NO,1956.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,225000,225000,Casa o chalet independiente en venta en Llevant
+68,68,252.0,212.0,6.0,3.0,NO,NO,Por reformar,no_definido,NO,1975.0,NO,2,NO,NO,NO,Igualada,Igualada,f,430000,465000,Casa o chalet independiente en venta en Ponent
+69,69,104.0,93.0,3.0,2.0,NO,NO,Buen estado,norte,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Centre,NO,151000,151000,Piso en venta en calle de la Caritat
+70,70,88.0,74.0,2.0,1.0,NO,SI,Buen estado,no_definido,SI,2008.0,SI,1,SI,SI,NO,Igualada,Ponent,b,177000,177000,Piso en venta en calle de Sor Rita Mercader
+71,71,70.0,61.0,2.0,2.0,NO,NO,Buen estado,sur,NO,2007.0,SI,1,SI,NO,NO,Igualada,Igualada,e,115100,115100,Piso en venta en Llevant
+72,72,55.0,43.0,3.4526315789473685,1.0,NO,SI,Buen estado,no_definido,NO,2012.0,NO,1,SI,NO,NO,Igualada,Igualada,e,62000,62000,Piso en venta en Llevant
+73,73,55.0,43.0,3.4526315789473685,1.0,NO,SI,Buen estado,no_definido,NO,2012.0,NO,2,SI,NO,NO,Igualada,Igualada,e,70000,70000,Piso en venta en Llevant
+74,74,98.0,77.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,2012.0,NO,1,SI,NO,NO,Igualada,Igualada,e,118000,118000,Piso en venta en Llevant
+75,75,98.0,77.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,2012.0,NO,2,SI,NO,NO,Igualada,Igualada,e,126000,126000,Piso en venta en Llevant
+76,76,79.0,74.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1982.0,NO,3,SI,NO,NO,Igualada,Pla de Sant Magi,e,135500,141500,"Piso en venta en calle d'Ãdena, 122"
+77,77,75.0,71.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,NO,132500,132500,Piso en venta en Centre
+78,78,112.0,101.0,4.0,2.0,SI,NO,Buen estado,este,NO,1978.0,SI,4,NO,NO,NO,Igualada,Igualada,g,162000,162000,Ãtico en venta en Pla de Sant Magi
+79,79,76.0,68.0,3.0,1.0,SI,NO,Buen estado,este,NO,1971.0,SI,2,NO,NO,NO,Igualada,Igualada,f,130000,130000,Piso en venta en Ponent
+80,80,92.0,74.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,1967.0,SI,4,SI,NO,NO,Igualada,Igualada,e,119000,119000,Piso en venta en Ponent
+81,81,119.0,100.0,3.0,2.0,SI,NO,Buen estado,sur,SI,2001.0,SI,3,SI,SI,NO,Igualada,Igualada,f,239000,239000,Piso en venta en Centre
+82,82,98.0,59.0,3.0,2.0,SI,NO,Buen estado,sur,SI,2006.0,SI,3,SI,SI,NO,Igualada,Ponent,NO,179000,179000,DÃºplex en venta en calle de MilÃ  i Fontanals
+83,83,46.0,46.0,3.4526315789473685,1.0,NO,NO,Por reformar,no_definido,NO,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Centre,NO,200000,200000,Piso en venta en calle de J. MartÃ­ i Franquesa
+84,84,90.0,90.0,3.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Llevant,e,115000,115000,Piso en venta en calle de Celdoni GuixÃ 
+85,85,109.0,83.0,4.0,2.0,SI,SI,Buen estado,no_definido,NO,2006.0,NO,4,SI,NO,NO,Igualada,Llevant,e,162000,162000,DÃºplex en venta en calle de Salvador Murt
+86,86,160.0,140.0,3.0,1.0,SI,SI,Por reformar,oeste,NO,1968.0,SI,2,NO,NO,NO,Igualada,Ponent,e,139000,139000,Chalet pareado en venta en avenida de Ntra. Sra. de la Pietat
+87,87,109.0,85.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,2006.0,SI,3,SI,SI,NO,Igualada,Llevant,g,162000,162000,DÃºplex en venta en calle de Salvador Murt
+88,88,68.0,53.0,2.0,1.0,NO,NO,Buen estado,norte,SI,2008.0,SI,1,SI,NO,NO,Igualada,Igualada,e,110900,110900,Piso en venta en Centre
+89,89,75.0,74.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,1968.0,NO,1,SI,NO,NO,Igualada,Igualada,g,110000,110000,Piso en venta en Llevant
+90,90,75.0,74.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,1968.0,NO,1,SI,NO,NO,Igualada,Igualada,g,110000,110000,Piso en venta en Llevant
+91,91,127.0,126.0,3.0,1.0,SI,SI,Buen estado,no_definido,NO,1974.0,NO,4,NO,NO,NO,Igualada,Igualada,g,114000,114000,Ãtico en venta en Ponent
+92,92,56.0,44.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,2007.0,NO,1,SI,NO,NO,Igualada,Igualada,d,105000,105000,Piso en venta en Pla de Sant Magi
+93,93,279.0,218.0,5.0,3.0,NO,NO,Buen estado,sur,NO,2020.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,540500,540500,Casa o chalet independiente en venta en Pla de Sant Magi
+94,94,303.0,263.0,3.0,4.0,SI,SI,Buen estado,no_definido,NO,1900.0,SI,2,NO,SI,NO,Igualada,Igualada,e,249000,249000,Chalet adosado en venta en Centre
+95,95,350.0,250.0,4.0,4.0,SI,NO,Buen estado,norte,SI,2000.0,NO,2,NO,NO,NO,Igualada,Igualada,e,850000,850000,Finca rÃºstica en venta en Sesoliveres la Massa
+96,96,80.0,80.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,2008.0,NO,3,NO,NO,NO,Igualada,Llevant,e,99000,99000,Piso en venta en calle de Badalona
+97,97,127.0,87.0,3.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,g,99000,114000,Piso en venta en Ponent
+98,98,120.0,110.0,3.0,2.0,SI,SI,Buen estado,no_definido,NO,2012.0,SI,2,SI,NO,NO,Igualada,Llevant,d,190000,190000,DÃºplex en venta en calle del Bisbe Robuster
+99,99,108.0,80.0,3.0,2.0,NO,SI,Buen estado,sur,NO,1990.0,NO,1,NO,NO,NO,Igualada,Ponent,f,130000,130000,Piso en venta en Prats de Rei
+100,100,152.0,145.0,4.0,1.0,SI,NO,Buen estado,oeste,NO,1958.0,SI,2,NO,NO,NO,Igualada,Ponent,g,160000,160000,Chalet adosado en venta en NUESTRA SEÃORA DE AFRICA
+101,101,71.0,71.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Llevant,NO,115100,115100,Piso en venta en calle de Gaspar Camps
+102,102,110.0,95.0,3.0,2.0,SI,SI,Buen estado,este,SI,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,230000,230000,Piso en venta en Pla de Sant Magi
+103,103,114.0,114.0,4.0,2.0,SI,NO,Por reformar,norte,NO,1970.0,NO,2,SI,NO,NO,Igualada,Centre,NO,79500,79500,Piso en venta en plaza de la IndependÃ¨ncia
+104,104,88.0,88.0,3.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Igualada,NO,120000,120000,Piso en venta en Ponent
+105,105,102.0,81.0,3.0,2.0,SI,NO,Buen estado,sur,NO,2022.0,SI,2,SI,NO,Zonas verdes,Igualada,Igualada,NO,235000,235000,Piso en venta en Ponent
+106,106,395.0,390.0,3.0,3.0,SI,SI,Buen estado,no_definido,SI,1987.0,SI,2,NO,SI,JardÃ­n,Igualada,Igualada,NO,457000,457000,Chalet adosado en venta en Ponent
+107,107,85.0,79.0,3.0,1.0,NO,SI,Buen estado,no_definido,NO,1982.0,NO,3,SI,NO,NO,Igualada,Igualada,e,135500,135500,Piso en venta en Pla de Sant Magi
+108,108,95.0,77.0,3.0,1.0,SI,SI,Buen estado,no_definido,NO,1997.0,SI,1,SI,SI,NO,Igualada,Igualada,f,160000,160000,Piso en venta en Pla de Sant Magi
+109,109,66.0,56.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,1995.0,NO,1,NO,NO,NO,Igualada,Igualada,e,100000,100000,Piso en venta en Llevant
+110,110,75.0,67.0,4.0,1.0,SI,NO,Buen estado,sur,NO,1969.0,SI,5_o_superior,SI,NO,NO,Igualada,Igualada,g,124500,124500,Piso en venta en Pla de Sant Magi
+111,111,315.0,180.0,7.0,4.0,SI,SI,Buen estado,este,SI,1951.0,SI,2,NO,SI,NO,Igualada,Igualada,g,340000,340000,Casa o chalet independiente en venta en Centre
+112,112,118.0,90.0,3.0,2.0,SI,NO,Buen estado,este,NO,2022.0,SI,1,SI,NO,Zonas verdes,Igualada,Igualada,NO,255000,255000,Piso en venta en Ponent
+113,113,141.0,111.0,4.0,2.0,NO,NO,Buen estado,no_definido,NO,1970.0,SI,1,SI,SI,NO,Igualada,Igualada,g,150000,150000,Piso en venta en Pla de Sant Magi
+114,114,120.0,84.0,3.0,2.0,SI,NO,Buen estado,sur,SI,1984.2057416267942,SI,1,SI,NO,Zonas verdes,Igualada,Igualada,NO,260000,260000,Piso en venta en Ponent
+115,115,228.0,200.0,4.0,2.0,NO,NO,Buen estado,no_definido,NO,1995.0,NO,2,NO,NO,NO,Igualada,Igualada,e,299000,299000,Chalet adosado en venta en Les Comes
+116,116,109.0,82.0,4.0,2.0,SI,NO,Buen estado,norte,NO,2006.0,SI,3,SI,SI,NO,Igualada,Igualada,NO,162000,162000,DÃºplex en venta en Llevant
+117,117,277.0,84.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1940.0,NO,2,NO,NO,NO,Igualada,Igualada,f,250000,250000,Casa o chalet independiente en venta en Llevant
+118,118,371.0,292.0,4.0,4.0,NO,NO,Buen estado,no_definido,NO,1991.0,NO,2,NO,NO,NO,Igualada,Igualada,f,525000,525000,Casa o chalet independiente en venta en Sesoliveres la Massa
+119,119,280.0,100.0,3.0,2.0,SI,SI,Buen estado,sur,SI,1984.2057416267942,SI,2,NO,SI,NO,Igualada,Igualada,f,230000,230000,Casa o chalet independiente en venta en Ponent
+120,120,117.0,91.0,4.0,1.0,NO,SI,Buen estado,no_definido,NO,1900.0,NO,3,NO,NO,NO,Igualada,Centre,e,116000,116000,Piso en venta en calle Santa Maria
+121,121,75.0,75.0,2.0,1.0,NO,SI,Buen estado,no_definido,NO,2020.0,NO,2,SI,NO,NO,Igualada,Centre,c,118000,118000,"Piso en venta en calle del Pare Tous Soler, 20"
+122,122,101.0,81.0,4.0,2.0,NO,SI,Buen estado,no_definido,NO,1976.0,SI,2,SI,NO,NO,Igualada,Ponent,e,127000,127000,Piso en venta en calle Sant MartÃ­ de Sesgueioles
+123,123,47.0,33.0,3.4526315789473685,1.0,SI,NO,Buen estado,este,NO,2007.0,SI,1,SI,NO,NO,Igualada,Pla de Sant Magi,e,94000,94000,Piso en venta en Joan Baptista
+124,124,110.0,87.0,3.0,2.0,SI,NO,Buen estado,este,NO,1977.0,NO,5_o_superior,SI,NO,NO,Igualada,Pla de Sant Magi,e,121000,121000,Piso en venta en calle de Lleida
+125,125,104.0,104.0,3.0,2.0,SI,SI,Por reformar,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Centre,g,151000,151000,DÃºplex en venta en calle de la Caritat
+126,126,91.0,85.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1973.0,SI,3,NO,NO,NO,Igualada,Centre,f,85000,85000,Piso en venta en callejÃ³n Sant Nicolau
+127,127,96.0,76.0,3.0,2.0,SI,SI,Buen estado,norte,NO,1996.0,SI,3,SI,NO,NO,Igualada,Igualada,f,140000,140000,Piso en venta en Ponent
+128,128,116.0,98.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,SI,NO,NO,Igualada,Centre,NO,190000,190000,DÃºplex en venta en plaza de l'Ajuntament
+129,129,42.0,36.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,SI,NO,NO,Igualada,Centre,NO,62000,62000,Piso en venta en plaza de l'Ajuntament
+130,130,85.0,75.0,3.0,2.0,NO,SI,Buen estado,sur,SI,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Pla de Sant Magi,e,130000,130000,"Piso en venta en calle de Santa Teresa, 10 SN"
+131,131,52.0,52.0,2.0,1.0,NO,NO,Buen estado,norte,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Llevant,f,43000,43000,Piso en venta en plaza d'AlcÃ ntara
+132,132,66.0,55.0,2.0,1.0,SI,SI,Buen estado,norte,NO,1978.0,SI,1,NO,NO,NO,Igualada,Igualada,e,130000,130000,Piso en venta en Ponent
+133,133,106.0,92.0,4.0,2.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,3,SI,NO,NO,Igualada,Igualada,a,265000,265000,DÃºplex en venta en Pla de Sant Magi
+134,134,151.0,132.0,4.0,3.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,3,SI,NO,NO,Igualada,Igualada,a,328000,328000,DÃºplex en venta en Pla de Sant Magi
+135,135,152.0,130.0,4.0,3.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,3,SI,NO,NO,Igualada,Igualada,a,325000,325000,DÃºplex en venta en Pla de Sant Magi
+136,136,151.0,129.0,4.0,3.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,3,SI,NO,NO,Igualada,Igualada,a,325000,325000,DÃºplex en venta en Pla de Sant Magi
+137,137,100.0,89.0,3.0,2.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,2,SI,NO,NO,Igualada,Igualada,a,251000,251000,Piso en venta en Pla de Sant Magi
+138,138,101.0,88.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,SI,2,SI,NO,NO,Igualada,Igualada,a,249000,249000,Piso en venta en Pla de Sant Magi
+139,139,101.0,87.0,3.0,2.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,2,SI,NO,NO,Igualada,Igualada,a,249000,249000,Piso en venta en Pla de Sant Magi
+140,140,100.0,80.0,3.0,2.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,262000,262000,Piso en venta en Pla de Sant Magi
+141,141,74.0,66.0,2.0,1.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,180000,180000,Piso en venta en Pla de Sant Magi
+142,142,100.0,89.0,3.0,2.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,259000,259000,Piso en venta en Pla de Sant Magi
+143,143,101.0,87.0,3.0,2.0,SI,NO,Buen estado,sur,SI,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Igualada,a,256000,256000,Piso en venta en Pla de Sant Magi
+144,144,122.0,100.0,2.0,2.0,NO,SI,Buen estado,no_definido,NO,1999.0,SI,2,NO,SI,NO,Igualada,Centre,NO,170000,205000,Piso en venta en calle GarcÃ­a Fossas
+145,145,385.0,339.0,4.0,4.0,SI,NO,Buen estado,sur,SI,1960.0,SI,2,NO,NO,NO,Igualada,Igualada,e,265000,265000,Casa o chalet independiente en venta en Llevant
+146,146,335.0,285.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1998.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,475000,475000,Casa o chalet independiente en venta en Sesoliveres la Massa
+147,147,128.0,105.0,4.0,2.0,SI,SI,Buen estado,sur,NO,2004.0,SI,1,SI,NO,NO,Igualada,Igualada,e,195000,195000,Piso en venta en Ponent
+148,148,106.0,93.0,3.4526315789473685,2.0,SI,SI,Buen estado,norte,NO,1930.0,SI,1,NO,SI,NO,Igualada,Igualada,NO,155000,155000,Piso en venta en Centre
+149,149,147.0,135.0,3.0,2.0,SI,NO,Buen estado,sur,NO,1985.0,SI,1,NO,NO,NO,Igualada,Igualada,f,160000,180000,Piso en venta en Llevant
+150,150,76.0,70.0,3.0,1.0,NO,SI,Por reformar,no_definido,NO,1967.0,NO,5_o_superior,NO,NO,NO,Igualada,Llevant,f,59612,59612,Piso en venta en calle de Sant Carles
+151,151,436.0,112.65346534653466,5.0,3.0,NO,NO,Buen estado,no_definido,NO,1989.0,NO,2,NO,NO,NO,Igualada,Igualada,e,649000,649000,Casa o chalet independiente en venta en Pla de Sant Magi
+152,152,112.0,105.0,4.0,2.0,SI,SI,Buen estado,este,SI,2006.0,SI,4,SI,SI,NO,Igualada,Igualada,d,219000,219000,DÃºplex en venta en Pla de Sant Magi
+153,153,242.0,200.0,3.0,2.0,SI,NO,Buen estado,sur,SI,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Igualada,f,230000,230000,Piso en venta en Centre
+154,154,91.0,79.0,3.0,2.0,SI,NO,Buen estado,este,SI,2007.0,SI,1,SI,SI,Zonas verdes,Igualada,Igualada,e,275000,275000,Piso en venta en Pla de Sant Magi
+155,155,379.0,379.0,3.0,2.0,SI,SI,Buen estado,este,NO,1984.2057416267942,NO,2,NO,SI,NO,Igualada,Igualada,e,279000,279000,Casa o chalet en venta en Ponent
+156,156,127.0,87.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1974.0,NO,2,NO,NO,NO,Igualada,Ponent,e,114000,114000,Ãtico en venta en calle del Pare Salvador Font
+157,157,108.0,87.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,1970.0,NO,4,SI,NO,NO,Igualada,Centre,d,118500,118500,Piso en venta en rambla de Sant Isidre
+158,158,107.0,93.0,3.0,3.0,SI,NO,Buen estado,este,NO,2007.0,SI,1,NO,NO,Zonas verdes,Igualada,Ponent,e,156000,156000,"DÃºplex en venta en avenida del Mestre Montaner, 9"
+159,159,40.0,40.0,3.4526315789473685,1.0,NO,NO,Buen estado,norte,NO,1984.2057416267942,SI,1,NO,SI,NO,Igualada,Centre,g,95000,95000,"Piso en venta en Alba, 14"
+160,160,91.0,90.0,4.0,2.0,SI,SI,Buen estado,sur,SI,1984.2057416267942,NO,2,NO,SI,JardÃ­n,Igualada,Igualada,NO,235000,235000,Chalet adosado en venta en Les Comes
+161,161,75.0,65.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Pla de Sant Magi,NO,82000,82000,Piso en venta en Passatge de la Tossa
+162,162,72.0,50.0,3.0,1.0,NO,NO,Buen estado,norte,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Centre,e,76100,76100,Piso en venta en callejÃ³n Sant Miquel
+163,163,91.0,73.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Centre,NO,85000,85000,Piso en venta en callejÃ³n Sant Nicolau
+164,164,110.0,104.0,3.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,SI,3,NO,SI,NO,Igualada,Llevant,e,115000,115000,DÃºplex en venta en calle MolÃ­ de l'Abadia
+165,165,115.0,115.0,4.0,2.0,SI,SI,Buen estado,no_definido,NO,1984.2057416267942,NO,1,SI,NO,NO,Igualada,Pla de Sant Magi,NO,160000,160000,"Piso en venta en avenida de Barcelona, 157"
+166,166,88.0,88.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1968.0,SI,2,NO,NO,NO,Igualada,Llevant,NO,71600,71600,Piso en venta en calle de Josep GaltÃ©s
+167,167,113.0,110.0,2.0,1.0,SI,SI,Buen estado,sur,NO,2005.0,NO,2,SI,NO,NO,Igualada,Igualada,e,181000,181000,DÃºplex en venta en Pla de Sant Magi
+168,168,86.0,78.0,3.0,2.0,NO,SI,Buen estado,este,NO,1990.0,NO,1,NO,NO,NO,Igualada,Igualada,f,130000,130000,Piso en venta en Ponent
+169,169,75.0,75.0,4.0,1.0,NO,NO,Buen estado,no_definido,SI,1974.0,SI,3,NO,SI,NO,Igualada,Igualada,NO,127000,127000,Piso en venta en Ponent
+170,170,53.0,112.65346534653466,3.0,1.0,NO,NO,Por reformar,sur,NO,1956.0,NO,2,NO,NO,NO,Igualada,Igualada,f,43000,43000,Piso en venta en Llevant
+171,171,90.0,76.0,3.0,1.0,NO,NO,Buen estado,este,NO,1976.0,SI,1,NO,NO,NO,Igualada,Igualada,f,120000,120000,Piso en venta en Ponent
+172,172,345.0,345.0,5.0,1.0,NO,NO,Buen estado,no_definido,NO,1912.0,SI,2,NO,NO,NO,Igualada,Centre,NO,72600,72600,Casa o chalet en venta en calle del Roser
+173,173,371.0,300.0,4.0,3.0,SI,SI,Buen estado,no_definido,SI,1991.0,SI,2,NO,SI,JardÃ­n,Igualada,Igualada,f,525000,525000,Casa o chalet independiente en venta en Sesoliveres la Massa
+174,174,57.0,42.0,2.0,1.0,SI,NO,Buen estado,norte,NO,1964.0,NO,1,NO,NO,NO,Igualada,Igualada,g,78500,80000,Piso en venta en Centre
+175,175,92.0,87.0,4.0,1.0,NO,SI,Buen estado,norte,SI,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Pla de Sant Magi,NO,125000,125000,Piso en venta en calle de Tarragona
+176,176,63.0,63.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,e,94000,94000,Piso en venta en Pla de Sant Magi
+177,177,116.0,100.0,4.0,2.0,NO,SI,Buen estado,oeste,SI,2004.0,SI,2,SI,SI,NO,Igualada,Ponent,NO,220000,220000,Piso en venta en calle de la Pobla de Claramunt
+178,178,75.0,58.0,2.0,1.0,SI,SI,Buen estado,este,NO,1922.0,SI,2,SI,NO,NO,Igualada,Igualada,c,118000,118000,Piso en venta en Centre
+179,179,227.0,156.0,5.0,3.0,SI,SI,Buen estado,sur,SI,2006.0,SI,2,SI,SI,NO,Igualada,Igualada,e,290000,290000,DÃºplex en venta en Pla de Sant Magi
+180,180,227.0,156.0,5.0,3.0,SI,SI,Buen estado,sur,SI,2006.0,SI,2,SI,SI,NO,Igualada,Igualada,e,290000,290000,DÃºplex en venta en Pla de Sant Magi
+181,181,113.0,113.0,2.0,1.0,NO,NO,Buen estado,norte,NO,2005.0,NO,2,SI,NO,NO,Igualada,Pla de Sant Magi,NO,181000,181000,Piso en venta en calle de Trobadiners
+182,182,76.0,67.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,5_o_superior,NO,NO,NO,Igualada,Llevant,NO,59612,59612,Piso en venta en calle de Sant Carles
+183,183,117.0,91.0,4.0,1.0,NO,NO,Buen estado,norte,NO,1900.0,NO,3,NO,NO,NO,Igualada,Centre,e,116000,116000,Piso en venta en calle Santa Maria
+184,184,107.0,99.0,3.0,3.0,SI,SI,Buen estado,norte,NO,2007.0,SI,1,SI,SI,Zonas verdes,Igualada,Ponent,d,156000,156000,DÃºplex en venta en avenida del Mestre Montaner
+185,185,450.0,333.0,4.0,2.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,SI,2,NO,SI,JardÃ­n,Igualada,Igualada,NO,475000,475000,Casa o chalet independiente en venta en Sesoliveres la Massa
+186,186,76.0,67.0,3.0,1.0,NO,SI,Por reformar,no_definido,NO,1967.0,NO,5_o_superior,NO,NO,NO,Igualada,Igualada,g,59612,59612,Piso en venta en Llevant
+187,187,71.0,52.0,2.0,1.0,NO,NO,Buen estado,no_definido,SI,2010.0,NO,1,SI,NO,NO,Igualada,Igualada,d,111300,111300,Piso en venta en Centre
+188,188,60.0,54.0,3.4526315789473685,1.0,NO,SI,Buen estado,no_definido,NO,1997.0,NO,1,NO,NO,NO,Igualada,Igualada,g,90000,90000,Piso en venta en Centre
+189,189,104.0,84.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,2008.0,SI,3,SI,SI,NO,Igualada,Igualada,e,115000,115000,DÃºplex en venta en Llevant
+190,190,110.0,88.0,4.0,2.0,NO,SI,Buen estado,no_definido,NO,1977.0,NO,5_o_superior,SI,NO,NO,Igualada,Igualada,e,121000,121000,Piso en venta en Pla de Sant Magi
+191,191,112.0,112.65346534653466,3.0,2.0,NO,SI,Por reformar,no_definido,NO,1900.0,NO,2,NO,NO,NO,Igualada,Igualada,e,120000,120000,Piso en venta en Centre
+192,192,72.0,59.0,2.0,1.0,NO,NO,Buen estado,norte,NO,1964.0,SI,5_o_superior,SI,NO,NO,Igualada,Igualada,e,98000,98000,Piso en venta en Llevant
+193,193,98.0,88.0,3.0,1.0,NO,SI,Buen estado,no_definido,NO,1900.0,SI,1,NO,NO,NO,Igualada,Igualada,NO,99900,99900,Piso en venta en Centre
+194,194,63.0,58.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,2007.0,SI,1,SI,NO,NO,Igualada,Igualada,e,94000,94000,Piso en venta en Pla de Sant Magi
+195,195,111.0,100.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,1995.0,NO,2,NO,NO,NO,Igualada,Igualada,f,135000,135000,Piso en venta en Centre
+196,196,105.0,93.0,3.0,2.0,SI,SI,Buen estado,sur,NO,2001.0,SI,2,NO,NO,NO,Igualada,Igualada,e,151000,151000,DÃºplex en venta en Centre
+197,197,51.0,44.0,2.0,1.0,SI,SI,Buen estado,este,SI,1984.2057416267942,SI,2,SI,SI,NO,Igualada,Igualada,NO,161000,161000,Piso en venta en Pla de Sant Magi
+198,198,84.0,84.0,4.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Igualada,e,78700,78700,"Piso en venta en Urb. C/ CamelÃ­es, Llevant"
+199,199,154.0,119.0,3.0,2.0,SI,SI,Buen estado,norte,NO,2003.0,SI,2,SI,SI,NO,Igualada,Igualada,e,185000,185000,DÃºplex en venta en Centre
+200,200,63.0,60.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,2007.0,NO,1,SI,NO,NO,Igualada,Pla de Sant Magi,d,94000,94000,Piso en venta en calle de Sant Joan Baptista
+201,201,90.0,80.0,4.0,1.0,NO,NO,Buen estado,este,SI,1974.0,NO,3,NO,SI,NO,Igualada,Ponent,NO,127000,130000,"Piso en venta en calle del Pare Salvador Font, 7"
+202,202,136.2871287128713,112.65346534653466,3.4526315789473685,1.0,NO,NO,Por reformar,no_definido,NO,1980.0,NO,2,NO,NO,NO,Igualada,Igualada,e,300000,300000,Casa o chalet independiente en venta en Centre
+203,203,138.0,117.0,5.0,2.0,NO,SI,Por reformar,sur,NO,1968.0,NO,4,NO,NO,NO,Igualada,Igualada,e,93000,93000,Piso en venta en Llevant
+204,204,397.0,345.0,5.0,2.0,NO,NO,Por reformar,norte,NO,1912.0,NO,2,NO,NO,NO,Igualada,Igualada,d,80500,80500,Casa o chalet independiente en venta en Centre
+205,205,95.0,95.0,3.0,1.0,NO,NO,Buen estado,norte,NO,1970.0,SI,3,SI,NO,NO,Igualada,Igualada,e,130000,130000,Piso en venta en Ponent
+206,206,67.0,40.0,2.0,1.0,SI,NO,Por reformar,no_definido,NO,2009.0,NO,2,SI,NO,NO,Igualada,Igualada,g,94400,94400,Piso en venta en Centre
+207,207,117.0,112.65346534653466,4.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Igualada,e,116000,116000,Piso en venta en Centre
+208,208,42.0,36.0,3.4526315789473685,1.0,NO,SI,Buen estado,no_definido,NO,2007.0,NO,2,SI,NO,NO,Igualada,Igualada,e,72000,72000,Piso en venta en Pla de Sant Magi
+209,209,200.0,157.0,5.0,3.0,NO,NO,Buen estado,sur,NO,2020.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,483000,483000,Casa o chalet independiente en venta en Pla de Sant Magi
+210,210,91.0,91.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,e,130000,130000,Piso en venta en Ponent
+211,211,90.0,90.0,3.0,2.0,NO,SI,Buen estado,no_definido,NO,1984.2057416267942,NO,4,SI,NO,NO,Igualada,Les Comes,e,150000,150000,Piso en venta en calle del President Josep Tarradellas
+212,212,93.0,73.0,4.0,1.0,SI,NO,Buen estado,no_definido,NO,1968.0,SI,3,SI,NO,NO,Igualada,Igualada,g,107500,107500,Piso en venta en Llevant
+213,213,81.0,75.0,3.0,1.0,NO,SI,Buen estado,norte,NO,1971.0,SI,3,SI,NO,NO,Igualada,Igualada,e,110000,110000,Piso en venta en Sesoliveres la Massa
+214,214,100.0,90.0,3.0,2.0,SI,NO,Buen estado,sur,NO,2005.0,SI,2,NO,NO,NO,Igualada,Igualada,NO,205000,205000,DÃºplex en venta en Llevant
+215,215,89.0,89.0,3.0,2.0,SI,SI,Buen estado,sur,NO,1984.2057416267942,NO,2,NO,SI,NO,Igualada,Centre,NO,125000,125000,"Piso en venta en calle de l'Aurora, 40"
+216,216,90.0,90.0,4.0,2.0,NO,SI,Buen estado,no_definido,NO,1984.2057416267942,NO,4,SI,SI,Zonas verdes,Igualada,Ponent,e,185000,185000,"Piso en venta en calle de la Comarca, 78"
+217,217,96.0,96.0,3.0,1.0,SI,NO,Buen estado,este,NO,1984.2057416267942,SI,1,NO,NO,NO,Igualada,Igualada,NO,120000,120000,Piso en venta en Ponent
+218,218,69.0,69.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,d,68900,68900,"Piso en venta en Urb. C/ Argent, Centre"
+219,219,108.0,108.0,5.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Igualada,f,143000,143000,"Piso en venta en Urb. C/ Vilanova i la Geltru, Pla de Sant Magi"
+220,220,56.0,56.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,NO,NO,NO,Igualada,Igualada,e,100000,100000,"Piso en venta en Urb. C/ Doctor Coca, Llevant"
+221,221,143.0,110.0,3.0,2.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,NO,3,SI,NO,NO,Igualada,Centre,b,272000,272000,"Piso en venta en plaza de Cal Font, 90"
+222,222,77.0,67.0,3.0,1.0,SI,SI,Por reformar,este,NO,1965.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,62000,62000,Piso en venta en Centre
+223,223,115.0,94.0,4.0,2.0,NO,NO,Buen estado,oeste,NO,1995.0,SI,3,SI,SI,NO,Igualada,Centre,e,176000,176000,"Piso en venta en calle Santa Caterina, 30"
+224,224,42.0,42.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Pla de Sant Magi,NO,72000,72000,Piso en venta en calle de Santiago RusiÃ±ol
+225,225,75.0,65.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1986.0,NO,4,NO,NO,NO,Igualada,Pla de Sant Magi,c,56000,56000,"Piso en venta en alcantara, 7"
+226,226,43.0,36.0,3.4526315789473685,1.0,NO,NO,Buen estado,oeste,NO,2007.0,NO,2,SI,NO,NO,Igualada,Pla de Sant Magi,f,72000,72000,Piso en venta en calle de Carme Verdaguer
+227,227,156.0,120.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,JardÃ­n,Igualada,Pla de Sant Magi,NO,130000,130000,Casa o chalet en venta en Passatge Colomer
+228,228,128.0,115.0,4.0,2.0,NO,NO,Buen estado,este,NO,1984.2057416267942,SI,1,SI,SI,NO,Igualada,Igualada,e,166000,166000,Piso en venta en Pla de Sant Magi
+229,229,272.0,270.0,3.4526315789473685,2.0,NO,NO,Buen estado,sur,SI,1958.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,134000,134000,Casa o chalet independiente en venta en Pla de Sant Magi
+230,230,91.0,90.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1990.0,NO,1,NO,NO,NO,Igualada,Ponent,f,130000,130000,Piso en venta en calle de Prats del Rei
+231,231,161.0,112.65346534653466,4.0,1.0,NO,NO,Por reformar,no_definido,NO,1981.0,NO,1,SI,NO,NO,Igualada,Igualada,NO,160000,160000,Piso en venta en Centre
+232,232,87.0,82.0,4.0,2.0,NO,SI,Buen estado,norte,NO,1984.2057416267942,SI,2,SI,NO,NO,Igualada,Centre,NO,180000,180000,Piso en venta en calle de les DelÃ­cies
+233,233,110.0,87.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,e,121000,121000,Piso en venta en Pla de Sant Magi
+234,234,112.0,112.0,3.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,e,120000,120000,"Piso en venta en Urb. C/ Nou, Centre"
+235,235,98.0,98.0,4.0,1.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,f,99900,99900,Piso en venta en Centre
+236,236,300.0,300.0,5.0,4.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,SI,2,NO,NO,NO,Igualada,Llevant,e,280000,280000,Casa o chalet en venta en calle de Jaume Boloix i Canela
+237,237,310.0,309.0,5.0,3.0,SI,NO,Buen estado,este,SI,1984.2057416267942,SI,2,NO,NO,NO,Igualada,Igualada,NO,513000,513000,Casa o chalet independiente en venta en Pla de Sant Magi
+238,238,370.0,370.0,5.0,4.0,NO,NO,Buen estado,no_definido,SI,1984.2057416267942,SI,2,NO,NO,JardÃ­n,Igualada,Sesoliveres la Massa,NO,525000,525000,Casa o chalet en venta en calle Nueva Esperanza
+239,239,101.0,87.0,4.0,2.0,NO,SI,Buen estado,sur,NO,1984.2057416267942,SI,2,SI,NO,NO,Igualada,Pla de Sant Magi,e,187000,187000,"Piso en venta en avenida de Barcelona, 21"
+240,240,100.0,100.0,3.0,2.0,SI,NO,Buen estado,este,SI,1984.2057416267942,NO,1,SI,NO,Zonas verdes,Igualada,Llevant,NO,140000,140000,"Piso en venta en calle del Doctor Pujades, 76"
+241,241,136.2871287128713,112.65346534653466,12.0,7.0,NO,NO,Por reformar,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,NO,399000,399000,Casa o chalet independiente en venta en Centre
+242,242,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,1,SI,NO,NO,Igualada,Igualada,b,262000,262000,Piso en venta en Pla de Sant Magi
+243,243,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,2,SI,NO,NO,Igualada,Igualada,b,249000,249000,Piso en venta en Pla de Sant Magi
+244,244,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,1,SI,NO,NO,Igualada,Igualada,b,256000,256000,Piso en venta en Pla de Sant Magi
+245,245,81.0,67.0,2.0,1.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,1,SI,NO,NO,Igualada,Igualada,b,180000,180000,Piso en venta en Pla de Sant Magi
+246,246,161.0,128.0,4.0,3.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,325000,325000,DÃºplex en venta en Pla de Sant Magi
+247,247,116.0,93.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,265000,265000,DÃºplex en venta en Pla de Sant Magi
+248,248,161.0,128.0,4.0,3.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,325000,325000,DÃºplex en venta en Pla de Sant Magi
+249,249,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,2,SI,NO,NO,Igualada,Igualada,b,249000,249000,Piso en venta en Pla de Sant Magi
+250,250,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,2,SI,NO,NO,Igualada,Igualada,b,251000,251000,Piso en venta en Pla de Sant Magi
+251,251,114.0,91.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,265000,265000,DÃºplex en venta en Pla de Sant Magi
+252,252,161.0,128.0,4.0,3.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,328000,328000,DÃºplex en venta en Pla de Sant Magi
+253,253,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,SI,NO,NO,Igualada,Igualada,b,262000,262000,Piso en venta en Pla de Sant Magi
+254,254,110.0,90.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,1,SI,NO,NO,Igualada,Igualada,b,259000,259000,Piso en venta en Pla de Sant Magi
+255,255,161.0,128.0,4.0,3.0,SI,NO,Buen estado,no_definido,NO,2023.0,NO,3,SI,NO,NO,Igualada,Igualada,b,328000,328000,DÃºplex en venta en Pla de Sant Magi
+256,256,88.0,77.0,4.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Ponent,e,120000,120000,"Piso en venta en calle de Masquefa, 27 -19"
+257,257,88.0,70.0,3.0,1.0,SI,NO,Buen estado,no_definido,NO,1968.0,NO,2,NO,NO,NO,Igualada,Llevant,NO,71600,71600,"Piso en venta en calle de Josep GaltÃ©s, 26"
+258,258,112.0,70.0,3.0,1.0,SI,NO,Buen estado,no_definido,SI,1984.2057416267942,SI,1,SI,NO,Zonas verdes,Igualada,Pla de Sant Magi,NO,275000,275000,Piso en venta en avenida d Andorra
+259,259,303.0,257.0,3.4526315789473685,1.0,SI,NO,Por reformar,sur,SI,1950.0,NO,2,NO,NO,NO,Igualada,Llevant,NO,210000,210000,Casa o chalet en venta en calle del Carrilet
+260,260,88.0,65.0,2.0,2.0,SI,SI,Buen estado,no_definido,NO,2023.0,SI,1,SI,NO,NO,Igualada,Igualada,a,200000,200000,Piso en venta en Pla de Sant Magi
+261,261,329.0,290.0,5.0,3.0,SI,NO,Por reformar,norte,SI,1900.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,198000,198000,Casa o chalet independiente en venta en Centre
+262,262,75.0,67.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,2006.0,NO,2,SI,NO,NO,Igualada,Igualada,f,106000,106000,Piso en venta en Centre
+263,263,406.0,345.0,6.0,3.0,NO,NO,Buen estado,no_definido,NO,1925.0,NO,2,NO,NO,NO,Igualada,Pla de Sant Magi,NO,250000,250000,Casa o chalet en venta en calle d'Ãdena
+264,264,145.0,120.0,4.0,2.0,NO,NO,Buen estado,no_definido,SI,2000.0,SI,2,SI,SI,NO,Igualada,Igualada,NO,220000,220000,Piso en venta en Centre
+265,265,80.0,64.0,3.0,1.0,NO,SI,Buen estado,no_definido,NO,1971.0,NO,3,NO,NO,NO,Igualada,Igualada,g,64000,64000,Piso en venta en Pla de Sant Magi
+266,266,77.0,70.0,3.0,1.0,NO,SI,Buen estado,sur,NO,1973.0,NO,2,NO,NO,NO,Igualada,Igualada,f,80000,80000,Piso en venta en Llevant
+267,267,99.0,86.0,4.0,2.0,NO,SI,Buen estado,no_definido,NO,1976.0,NO,2,SI,NO,NO,Igualada,Igualada,e,127000,127000,Piso en venta en Ponent
+268,268,117.0,90.0,4.0,2.0,NO,SI,Buen estado,norte,SI,1998.0,SI,4,SI,NO,NO,Igualada,Igualada,e,194999,194999,Piso en venta en Ponent
+269,269,95.0,95.0,3.0,2.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,SI,2,NO,SI,NO,Igualada,Igualada,NO,154800,154800,Piso en venta en Centre
+270,270,102.0,102.0,3.0,1.0,NO,NO,Buen estado,este,NO,1979.0,SI,3,NO,NO,NO,Igualada,Igualada,NO,68000,68000,Piso en venta en Llevant
+271,271,71.0,71.0,2.0,1.0,NO,SI,Buen estado,no_definido,SI,2008.0,SI,1,NO,NO,NO,Igualada,Igualada,NO,110900,110900,Piso en venta en Centre
+272,272,86.0,84.0,3.0,1.0,NO,NO,Por reformar,no_definido,NO,1900.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,46000,46000,Piso en venta en Centre
+273,273,314.0,213.0,4.0,2.0,NO,NO,Buen estado,sur,SI,1984.2057416267942,NO,2,NO,NO,JardÃ­n,Igualada,Igualada,NO,600000,600000,Casa o chalet independiente en venta en Sesoliveres la Massa
+274,274,87.0,86.0,4.0,1.0,NO,NO,Buen estado,norte,NO,1970.0,NO,4,SI,NO,NO,Igualada,Igualada,NO,118500,118500,Piso en venta en Centre
+275,275,67.0,50.0,3.0,2.0,NO,NO,Por reformar,no_definido,NO,2009.0,NO,2,SI,NO,NO,Igualada,Centre,NO,94400,94400,DÃºplex en venta en calle del Roser s/n
+276,276,42.0,41.0,3.4526315789473685,1.0,SI,NO,Buen estado,oeste,NO,2001.0,SI,1,SI,NO,NO,Igualada,Igualada,g,60000,60000,Piso en venta en Centre
+277,277,72.0,112.65346534653466,2.0,1.0,NO,NO,Buen estado,no_definido,NO,2006.0,NO,1,NO,NO,NO,Igualada,Igualada,e,124000,124000,Piso en venta en Centre
+278,278,80.0,80.0,3.4526315789473685,2.0,NO,NO,Buen estado,sur,NO,1984.2057416267942,SI,2,NO,NO,NO,Igualada,Igualada,e,99000,99000,Piso en venta en Llevant
+279,279,96.0,112.65346534653466,4.0,1.0,NO,SI,Buen estado,sur,NO,1966.0,NO,1,NO,NO,NO,Igualada,Igualada,NO,75000,75000,Piso en venta en Pla de Sant Magi
+280,280,68.0,48.0,2.0,1.0,NO,SI,Buen estado,sur,SI,2006.0,SI,2,SI,SI,NO,Igualada,Igualada,d,125000,135000,Piso en venta en Centre
+281,281,333.0,333.0,4.0,3.0,SI,SI,Buen estado,no_definido,SI,1984.2057416267942,NO,2,NO,SI,JardÃ­n,Igualada,Ponent,NO,475000,475000,"Casa o chalet independiente en venta en avenida d'Ãngel GuimerÃ , 16"
+282,282,100.0,84.0,3.0,2.0,SI,SI,Buen estado,este,SI,1984.2057416267942,SI,1,SI,NO,NO,Igualada,Centre,NO,185000,185000,"Piso en venta en calle dels Esquiladors, 21"
+283,283,350.0,350.0,6.0,3.0,SI,NO,Por reformar,no_definido,SI,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Sesoliveres la Massa,NO,155000,155000,"Casa de pueblo en venta en avenida d'Ãngel GuimerÃ , 123"
+284,284,70.0,70.0,2.0,2.0,SI,NO,Buen estado,norte,NO,1984.2057416267942,NO,2,NO,SI,NO,Igualada,Centre,NO,148000,148000,"DÃºplex en venta en calle Sant AgustÃ­, 4"
+285,285,101.0,86.0,4.0,2.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Igualada,e,127000,127000,Piso en venta en Ponent
+286,286,75.0,58.0,2.0,1.0,SI,SI,Buen estado,este,NO,1922.0,SI,1,SI,NO,NO,Igualada,Igualada,c,118000,118000,Piso en venta en Centre
+287,287,201.0,126.0,6.0,2.0,SI,NO,Por reformar,no_definido,NO,1930.0,NO,2,NO,NO,NO,Igualada,Igualada,NO,140000,140000,Casa o chalet independiente en venta en Pla de Sant Magi
+288,288,135.0,95.0,3.0,2.0,NO,NO,Buen estado,sur,NO,1996.0,NO,2,SI,NO,NO,Igualada,Igualada,e,180000,180000,"Piso en venta en Urb. Sagrada Familia, Pla de Sant Magi"
+289,289,106.0,74.0,3.0,2.0,NO,NO,Buen estado,sur,NO,2002.0,NO,2,SI,NO,NO,Igualada,Igualada,e,168000,168000,"Piso en venta en Urb. Casc Antic, Centre"
+290,290,74.0,69.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,SI,2,NO,NO,NO,Igualada,Pla de Sant Magi,e,136000,136000,"Piso en venta en calle de Sant Pere, 12"
+291,291,450.0,450.0,14.0,6.0,SI,NO,Buen estado,este,NO,1984.2057416267942,NO,2,NO,SI,NO,Igualada,Centre,e,370000,370000,"Casa o chalet independiente en venta en Baixada de Sant Nicolau, 5"
+292,292,136.2871287128713,112.65346534653466,3.4526315789473685,1.8169934640522876,NO,NO,Por reformar,sur,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Centre,NO,300000,300000,"Casa de pueblo en venta en calle retir, 29"
+293,293,100.0,90.0,3.0,1.0,SI,NO,Buen estado,sur,NO,1984.2057416267942,NO,4,NO,NO,NO,Igualada,Llevant,NO,110000,110000,"Piso en venta en calle Doctor Coca, 28"
+294,294,422.0,422.0,9.0,5.0,SI,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,SI,NO,Igualada,Centre,NO,200000,200000,"Chalet pareado en venta en calle Retir, 3"
+295,295,106.0,106.0,3.0,2.0,NO,NO,Buen estado,sur,SI,1984.2057416267942,NO,2,SI,SI,NO,Igualada,Ponent,NO,220000,220000,"Piso en venta en calle Pobla de Claramunt, 7"
+296,296,91.0,80.0,4.0,1.0,NO,NO,Buen estado,no_definido,NO,1980.0,SI,1,NO,NO,NO,Igualada,Igualada,e,95000,95000,Piso en venta en Ponent
+297,297,78.0,70.0,3.0,2.0,NO,NO,Buen estado,este,NO,1960.0,NO,2,SI,NO,NO,Igualada,Igualada,f,175000,175000,"Piso en venta en Urb. Pau Casals, Llevant"
+298,298,136.2871287128713,112.65346534653466,8.0,4.0,NO,NO,Por reformar,no_definido,NO,1950.0,NO,2,NO,NO,NO,Igualada,Igualada,g,330000,330000,Casa o chalet independiente en venta en Centre
+299,299,65.0,60.0,3.4526315789473685,1.0,NO,NO,Buen estado,norte,NO,1984.2057416267942,NO,1,SI,SI,NO,Igualada,Centre,a,150000,150000,"Estudio en venta en calle Rambla Sant Isidre, 8"
+300,300,67.0,67.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,2009.0,SI,2,NO,NO,NO,Igualada,Centre,NO,94400,94400,Piso en venta en calle del Roser
+301,301,90.0,90.0,3.4526315789473685,1.0,NO,NO,Buen estado,no_definido,NO,2008.0,SI,2,NO,NO,NO,Igualada,Centre,NO,110900,110900,Piso en venta en calle de Sant Ignasi
+302,302,41.0,41.0,2.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Pla de Sant Magi,NO,64800,64800,Piso en venta en calle de Santiago RusiÃ±ol
+303,303,73.0,73.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,2,NO,NO,NO,Igualada,Pla de Sant Magi,NO,117000,117000,Piso en venta en calle de Carme Verdaguer
+304,304,55.0,55.0,3.0,1.0,NO,NO,Buen estado,no_definido,NO,1984.2057416267942,NO,3,NO,NO,NO,Igualada,Llevant,NO,48000,48000,"Piso en venta en calle de Pau Muntadas, 83"
+305,305,67.0,63.0,4.0,1.0,SI,NO,Por reformar,este,NO,1984.2057416267942,NO,4,SI,NO,NO,Igualada,Centre,b,120000,120000,"Piso en venta en calle de Sant Antoni de Baix, 37"
+306,306,395.0,395.0,4.0,3.0,SI,SI,Buen estado,sur,SI,1984.2057416267942,NO,2,NO,NO,JardÃ­n,Igualada,Ponent,b,450000,450000,"Chalet pareado en venta en avenida del Doctor Pasteur, 48"
